@@ -12,8 +12,8 @@ e-mail: igor-chazov@yandex.ru
 
 ### Технические навыки
 
-* **Языки программирования:** JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой), php;
-* **Фреймворки:** Jest, Puppeteer;
+* **Языки программирования:** php, JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой);
+* **Фреймворки:** Laravel, Jest, Puppeteer;
 * **Библиотеки:** React, React Router, React Context, React redux, Redux Toolkit + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment;
 * **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, npm, yarn, git, Appveyor, Heroku.
 
