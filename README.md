@@ -8,7 +8,7 @@ e-mail: igor-chazov@yandex.ru
 
 Рад видеть вас в моей коллекции на GitHub'е.
 
-Сейчас заканчиваю обучение на курсе [«Веб-разработчик с нуля»](https://netology.ru/programs/web-developer) в онлайн университете [Нетология](https://netology.ru).
+2020-2022 года обучение и учебные проекты на курсе [«Веб-разработчик с нуля»](https://netology.ru/programs/web-developer) в онлайн университете [Нетология](https://netology.ru).
 
 ### Технические навыки
 
