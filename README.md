@@ -14,8 +14,9 @@ e-mail: igor-chazov@yandex.ru
 
 * **Языки программирования:** php, JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой);
 * **Фреймворки:** Laravel, Jest, Puppeteer;
-* **Библиотеки:** React, React Router, React Context, React redux, Redux Toolkit + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment;
-* **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, npm, yarn, git, Appveyor, Heroku.
+* **CMS: ModX, WordPress;
+* **Библиотеки:** React, Bootstrap, Moment;
+* **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, npm, yarn, git, Appveyor, Heroku.
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
