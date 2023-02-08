@@ -14,7 +14,7 @@ e-mail: igor-chazov@yandex.ru
 
 * **Языки программирования:** php, JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой);
 * **Фреймворки:** Laravel, Jest, Puppeteer;
-* **CMS: ModX, WordPress;
+* **CMS:** ModX, WordPress;
 * **Библиотеки:** React, Bootstrap, Moment;
 * **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, npm, yarn, git, Appveyor, Heroku.
 
