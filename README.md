@@ -8,8 +8,6 @@ e-mail: igor-chazov@yandex.ru
 
 Рад видеть вас в моей коллекции на GitHub'е.
 
-2020-2022 года обучение и учебные проекты на курсе [«Веб-разработчик с нуля»](https://netology.ru/programs/web-developer) в онлайн университете [Нетология](https://netology.ru).
-
 ### Технические навыки
 
 * **Языки программирования:** HTML, CSS, php, SQL, JavaScript, TypeScript;
