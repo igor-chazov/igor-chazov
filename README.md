@@ -30,7 +30,7 @@ e-mail: igor-chazov@yandex.ru
 <code><img height="30" src="https://camo.githubusercontent.com/0b85785958a9c023bd3869f5321e318a63faafe9943e1503f782b9d5b2e1b516/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6e706d2d332d313137353133322e706e67"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
 
-**Мои учебные проекты:** [GitHub](https://github.com/igor-chazov/portfolio).
+**Мои проекты:** [GitHub](https://github.com/igor-chazov/portfolio).
 
 
 #### GitHub статистика:
