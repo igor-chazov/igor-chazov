@@ -1,9 +1,7 @@
 ## Чазов Игорь Валерьевич
 
 tel: +7 (912) 588-10-24 (WhatsApp, Viber)
-
 telegram: [@igor_chazov](https://t.me/igor_chazov) (предпочитаемый способ связи)
-
 e-mail: igor-chazov@yandex.ru
 
 ---
