@@ -10,8 +10,6 @@ e-mail: igor-chazov@yandex.ru
 
 Рад видеть вас в моей коллекции на GitHub'е.
 
-### Технические навыки
-
 * **Языки программирования:** PHP, SQL, JavaScript, TypeScript;
 * **Фреймворки и библиотеки:** Bootstrap, Laravel, React, Redux;
 * **CMS:** WordPress, ModX;
