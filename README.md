@@ -1,20 +1,18 @@
-### Чазов Игорь Валерьевич 
+## Чазов Игорь Валерьевич
 
-tel: +7 (912) 588-10-24, WhatsApp, Telegram
-
+tel: +7 (912) 588-10-24 (WhatsApp, Viber)
+telegram: [@igor_chazov](https://t.me/igor_chazov) (предпочитаемый способ связи)
 e-mail: igor-chazov@yandex.ru
-
 ---
 
 Рад видеть вас в моей коллекции на GitHub'е.
 
 ### Технические навыки
 
-* **Языки программирования:** HTML, CSS, php, SQL, JavaScript, TypeScript;
-* **Фреймворки и библиотеки:** Laravel, React, Bootstrap;
+* **Языки программирования:** PHP, SQL, JavaScript, TypeScript;
+* **Фреймворки и библиотеки:** Bootstrap, Laravel, React, Redux;
 * **CMS:** WordPress, ModX;
-* **Инструменты:** Babel, esLint, WebPack, npm, yarn, git.
-* **Технологии:** xhr, fetch, DnD, SSE, websocket, ServiceWorkers, WebWorkers.
+* **Технологии Инструменты:** HTML, CSS, HTTP, CLI, AJAX, SSE, Websockets, MySQL, SQLite, Babel, esLint, WebPack, GIT, GiTHub, npm, yarn.
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
