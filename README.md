@@ -34,7 +34,7 @@ e-mail: igor-chazov@yandex.ru
 **Мои проекты:** [GitHub](https://github.com/igor-chazov/portfolio).
 
 
-#### GitHub статистика:
+#### GitHub статистика
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=igor-chazov&show_icons=true&theme=dark" alt="igor-chazov"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-chazov&layout=compact&theme=dark" alt="igor-chazov"/>
