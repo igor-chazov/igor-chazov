@@ -1,15 +1,15 @@
 ## Игорь Чазов
 <!-- <code><img height="16" src="http://igorchei.beget.tech/assets/img/svg/phone_fill.svg"></code> +7 (912) 588-10-24 -->
 
-<code><img height="18" src="http://igorchei.beget.tech/assets/img/svg/telegram-svgrepo-com.svg"></code> [@igor_chazov](https://t.me/igor_chazov)
-
 <code><img height="16" src="http://igorchei.beget.tech/assets/img/svg/email_message_fill.svg"></code> admin@ich-tech.ru
+
+<code><img height="18" src="http://igorchei.beget.tech/assets/img/svg/telegram-svgrepo-com.svg"></code> [@igor_chazov](https://t.me/igor_chazov)
 
 -----
 
-Разработчик полного цикла, с опытом работы в области создания современных и функциональных веб-приложений.
+#### Разработчик полного цикла, с опытом работы в области создания современных и функциональных веб-приложений.
 
-Увлечён программированием, технологиями и решением сложных задач.
+#### Увлечён программированием, технологиями и решением сложных задач.
 
 Рад видеть вас в моей коллекции на GitHub'е.
 
