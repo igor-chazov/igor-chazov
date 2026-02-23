@@ -56,8 +56,4 @@
 <code><img height="30" src="http://igorchei.beget.tech/assets/img/svg/WordPress.svg"></code>
 <code><img height="30" src="http://igorchei.beget.tech/assets/img/svg/modx-icon-svgrepo-com.svg"></code>
 
-#### GitHub статистика:
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=igor-chazov&show_icons=true&theme=dark" alt="igor-chazov"/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-chazov&layout=compact&theme=dark" alt="igor-chazov"/>
-
 ---
