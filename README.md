@@ -5,6 +5,8 @@
 
 <code><img height="18" src="http://igorchei.beget.tech/assets/img/svg/telegram-svgrepo-com.svg"></code> [@igor_chazov](https://t.me/igor_chazov)
 
+<code><img height="18" src="https://ich-tech.ru/favicon.svg"></code> [Портфолио](https://ich-tech.ru/portfolio)
+
 -----
 
 #### Разработчик полного цикла, с опытом работы в области создания современных и функциональных веб-приложений.
